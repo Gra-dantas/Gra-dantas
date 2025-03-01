@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, me chamo Graziela Dantas</h1>
+[<h1 align="center">Oi 👋, me chamo Graziela Dantas</h1>](https://readme-typing-svg.herokuapp.com/demo/?color=8044F7&lines=Ol%C3%A1%2C+eu+me+chamo+Graziela+Dantas)
 <h3 align="center">Apaixonada por Tecnologia</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
