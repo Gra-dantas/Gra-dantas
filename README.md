@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8044F7&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Graziela+Dantas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8044F7&multiline=true&width=435&lines=Ol%C3%A1%F0%9F%8C%8E!+Eu+me+chamo+Graziela+Dantas;Sejam+bem+vindos!)](https://git.io/typing-svg)
 <h3 align="center">Apaixonada por Tecnologia</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
